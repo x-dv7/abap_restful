@@ -4,4 +4,4 @@
 <br> Глава 1 Архитектура SAP/S4HANA
 <br> Глава 2 SAP Fiori и процесс проектирования
 <br> Глава 3 Модель программирования ABAP RESTful
-<br> Глава 4. Разработка элементов SAP Fiori
+<br> Глава 4. Разработка элементов SAP Fiori List Report и Object Page
