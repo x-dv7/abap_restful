@@ -5,3 +5,4 @@
 <br> Глава 2 SAP Fiori и процесс проектирования
 <br> Глава 3 Модель программирования ABAP RESTful
 <br> Глава 4. Разработка элементов SAP Fiori List Report и Object Page
+<br> Глава 7. Разработка freestyle приложения
